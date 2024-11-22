@@ -1,4 +1,4 @@
-# 🔧 Rio´s Workshop 
+# 🔧 Rio's Workshop 
 
 **`Digital Craftsman (IOS Developer/Civil Engineer)`**
 
@@ -20,7 +20,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn-icons-png.flaticon.com/512/5968/5968371.png)"/>
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
